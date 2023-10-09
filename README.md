@@ -1,1 +1,6 @@
-# teste
+# portifolio 
+
+### oque usamos:
+- html
+- css
+- javascript
